@@ -17,3 +17,5 @@ texHeaders.bin
 Thumbs.db
 CHANGELOG.md
 sqfvm.exe
+tools/make.cfg
+tools/make.py
